@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Applied Electronics, Roma Tre University, 2025 (expected)
-* M.Sc. in ICT for Internet and Multimedia, University of Padova, 2021
-* B.Sc. in Information Engineering, University of Padova, 2019
+* M.Sc. in ICT for Internet and Multimedia, University of Padua, 2021
+* B.Sc. in Information Engineering, University of Padua, 2019
 
 Work experience
 ======
