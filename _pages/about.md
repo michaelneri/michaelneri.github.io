@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Michael Neri Personal Website"
+title: "Michael Neri"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,5 @@ redirect_from:
 About me 
 ======
 
-
+News 
+=====
