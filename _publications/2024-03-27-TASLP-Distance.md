@@ -1,7 +1,7 @@
 ---
 title: "Speaker Distance Estimation in Enclosures from Single-Channel Audio"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-03-27-TASLP-Distance
 excerpt: 'Estimating speaker distance using only one microphone in enclosures using deep learning.'
 date: 2024-03-27
