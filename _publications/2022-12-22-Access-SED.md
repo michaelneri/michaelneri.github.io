@@ -1,15 +1,15 @@
 ---
-title: "Low-complexity Attention-based Unsupervised Anomalous Sound Detection exploiting Separable Convolutions and Angular Loss"
+title: "Sound Event Detection for Human Safety and Security in Noisy Environments"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-14-LSENS2024
-excerpt: 'Identification of anomalous audio recordings without the use of labels with low-complexity deep learning methods.'
+permalink: /publication/2022-12-22-Access-SED
+excerpt: 'Identification of anomalous events in recordings in a noisy public transportation environment (i.e., bus).'
 date: 2024-10-14
-venue: 'IEEE Sensors Letters'
-paperurl: 'https://michaelneri.github.io/files/LSENS2024.pdf'
-citation: 'M. Neri and M. Carli, "Low-Complexity Attention-Based Unsupervised Anomalous Sound Detection Exploiting Separable Convolutions and Angular Loss," in IEEE Sensors Letters, vol. 8, no. 11, pp. 1-4, Nov. 2024, Art no. 6014404, doi: 10.1109/LSENS.2024.3480450.'
+venue: 'IEEE Access'
+paperurl: 'https://michaelneri.github.io/files/Access_2022.pdf'
+citation: 'M. Neri, F. Battisti, A. Neri and M. Carli, "Sound Event Detection for Human Safety and Security in Noisy Environments," in IEEE Access, vol. 10, pp. 134230-134240, 2022, doi: 10.1109/ACCESS.2022.3231681.'
 ---
 
-<img src="../files/ProposedASD.jpg"/>
+<img src="../files/AuSPP.PNG"/>
 
-In this letter, a novel deep neural network, designed to enhance the efficiency and effectiveness of unsupervised sound anomaly detection, is presented. The proposed model exploits an attention module and separable convolutions to identify salient time–frequency patterns in audio data to discriminate between normal and anomalous sounds with reduced computational complexity. The approach is validated through extensive experiments using the Task 2 dataset of the DCASE 2020 challenge. Results demonstrate superior performance in terms of anomaly detection accuracy while having fewer parameters than state-of-the-art methods.
+The objective of a sound event detector is to recognize anomalies in an audio clip and return their onset and offset. However, detecting sound events in noisy environments is a challenging task. This is due to the fact that in a real audio signal several sound sources co-exist. Moreover, the characteristics of polyphonic audios are different from isolated recordings. It is also necessary to consider the presence of noise (e.g. thermal and environmental). In this contribution, we present a sound anomaly detection system based on a fully convolutional network which exploits image spatial filtering and an Atrous Spatial Pyramid Pooling module. To cope with the lack of datasets specifically designed for sound event detection, a dataset for the specific application of noisy bus environments has been designed. The dataset has been obtained by mixing background audio files, recorded in a real environment, with anomalous events extracted from monophonic collections of labelled audios. The performances of the proposed system have been evaluated through segment-based metrics such as error rate, recall, and F1-Score. Moreover, robustness and precision have been evaluated through four different tests. The analysis of the results shows that the proposed sound event detector outperforms both state-of-the-art methods and general purpose deep learning-solutions.
