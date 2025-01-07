@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-12-22-Access-SED
 excerpt: 'Identification of anomalous events in recordings in a noisy public transportation environment (i.e., bus).'
-date: 2024-10-14
+date: 2022-12-22
 venue: 'IEEE Access'
 paperurl: 'https://michaelneri.github.io/files/Access_2022.pdf'
 citation: 'M. Neri, F. Battisti, A. Neri and M. Carli, "Sound Event Detection for Human Safety and Security in Noisy Environments," in IEEE Access, vol. 10, pp. 134230-134240, 2022, doi: 10.1109/ACCESS.2022.3231681.'
