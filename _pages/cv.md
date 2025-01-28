@@ -48,7 +48,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2025 - Present
+  * COMP.SGN.340 Speech Processing, Teaching Assistant @ Tampere University
+
+* 2022 - 2024
+  * Ethical Hacking (M. Sc. in Telecommunications Engineering), Exam committee member @ Roma Tre University
+  * Multimedia Laboratory (B. Sc. in Electronic Engineering), Exam committee member @ Roma Tre University
+  * Cybersecurity for Telecommunications (M. Sc. in Telecommunications Engineering), Exam committee member @ Roma Tre University
   
