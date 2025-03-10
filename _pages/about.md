@@ -17,11 +17,13 @@ In 2023, I visited Tampere University, Finland, as a visiting Ph.D. student, whe
 
 My research interests lie in the domain of Artificial Intelligence techniques applied to Sound Solving tasks: Sound Event Detection, Acoustic Scene Classification, and Speaker Distance Estimation. Most of my audio processing works are within the DCASE (Detection and Classification of Acoustic Scene and Events) research context. At the same time, I am also interested in the effective quality assessment of multimedia (point clouds, light fields, etc…) using objective metrics.
 
-I am an IEEE Member, Editorial Manager for _Signal Processing: Image Communication_ journal (Elsevier), and a reviewer for several journals (_IEEE Transactions on Image Processing_, _IEEE Transactions on Multimedia_, _Expert Systems with Application_, _Signal Processing: Image Communications_, _IEEE Access_) and conferences (IEEE ICME, IEEE ICASSP, IEEE MMSP, DCASE, IEEE WIFS, ISPA).
+I am an IEEE Member, Editorial Manager for _Signal Processing: Image Communication_ journal (Elsevier), and a reviewer for several journals (_IEEE Transactions on Image Processing_, _IEEE Transactions on Multimedia_, _IEEE Transactions on Broadcasting_, _Expert Systems with Application_, _Signal Processing: Image Communications_, _IEEE Access_) and conferences (IEEE ICME, IEEE ICASSP, IEEE MMSP, DCASE, IEEE WIFS, ISPA).
 
 
 News 
 =====
+
+**10/03/2025** - "Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features" has been accepted for publication to IEEE Transactions on Broadcasting.
 
 **01/11/2024** - Joined Audio Research Group @ Tampere University and PhD Thesis submitted.
 
