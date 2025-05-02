@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Electronics, Roma Tre University, 2025 (expected). Thesis: "Scene Understanding with Sound using Artificial Intelligence Techniques" under the supervision of Prof. Marco Carli and Prof. Alessandro Neri.
+* Ph.D in Applied Electronics, Roma Tre University, April 2025. Thesis: "Scene Understanding with Sound using Artificial Intelligence Techniques" under the supervision of Prof. Marco Carli and Prof. Alessandro Neri.
 * M.Sc. in ICT for Internet and Multimedia, University of Padua, 2021. Thesis: "Pointcloud object detection and classification for railway applications" under the supervision of Prof. Federica Battisti.
 * B.Sc. in Information Engineering, University of Padua, 2019. Thesis: "Monitoring of network resources using Nagios Core Application" under the supervision of Prof. Andrea Zanella.
 
 Work experience
 ======
+* November 2024 - Present: Researcher
+  * Tampere University
+  * Audio Deepfake Detection
+
 * Summer 2021: Artificial Intelligence Engineer
   * RadioLabs, Consorzio Università Industria – Laboratori di Radiocomunicazioni.
   * Deep learning techniqes for 3D object detection in point clouds (M. Sc. Thesis).
