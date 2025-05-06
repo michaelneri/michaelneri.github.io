@@ -22,7 +22,7 @@ I am an IEEE Member, Editorial Manager for _Signal Processing: Image Communicati
 
 News 
 =====
-**30/03/2025** - 🎉🎉🎉 "Multi-channel Replay Speech Detection using an Adaptive Learnable Beamformer" has been accepted for publication in IEEE Open Journal of Signal Processing! Link to the [paper](https://arxiv.org/abs/2502.13473).
+**06/05/2025** - 🎉🎉🎉 "Multi-channel Replay Speech Detection using an Adaptive Learnable Beamformer" has been accepted for publication in IEEE Open Journal of Signal Processing! Link to the [accepted paper](https://michaelneri.github.io/files/2025-05-06-OJSP-Replay.pdf).
 
 **30/04/2025** - 🎉🎉🎉 I defended my PhD thesis entitled "Scene Understanding with Sound using Artificial Intelligence Techniques". Link to the [pdf](https://michaelneri.github.io/files/Michael_Neri_PhD_Thesis_No_ACK.pdf) and [presentation](https://michaelneri.github.io/files/Michael_Neri_Final_PhD_Presentation.pdf).
 
