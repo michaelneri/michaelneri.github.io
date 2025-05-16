@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* November 2024 - Present: Researcher
+* November 2024 - Present: Postdoctoral Research Fellow
   * Tampere University
   * Audio Deepfake Detection
 
