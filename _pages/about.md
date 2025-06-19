@@ -17,11 +17,14 @@ I graduated in 2019 with a Laurea (B.Sc.) in Information Engineering and further
 
 In 2023, I visited Tampere University, Finland, as a visiting Ph.D. student, where I conducted research regarding Speaker Distance Estimation by using single-channel recordings under the supervision of Prof. Virtanen. 
 
-I am an IEEE Member, Editorial Manager for _Signal Processing: Image Communication_ journal (Elsevier), and a reviewer for several journals (_IEEE Transactions on Image Processing_, _IEEE Transactions on Multimedia_, _IEEE Transactions on Broadcasting_, _Expert Systems with Application_, _Signal Processing: Image Communications_, _IEEE Access_) and conferences (IEEE ICME, IEEE WASPAA, IEEE ICASSP, IEEE MMSP, DCASE, IEEE WIFS, ISPA).
+I am an IEEE Member, Editorial Manager for _Signal Processing: Image Communication_ journal (Elsevier), and a reviewer for several journals (_IEEE Transactions on Image Processing_, _IEEE Transactions on Multimedia_, _IEEE Transactions on Broadcasting_, _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, _Expert Systems with Application_, _Signal Processing: Image Communications_, _IEEE Access_) and conferences (IEEE ICME, IEEE WASPAA, IEEE ICASSP, IEEE MMSP, DCASE, IEEE WIFS, ISPA).
 
 
 News 
 =====
+
+**13/06/2025** - "Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds" has been submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS). Link to the [paper](https://arxiv.org/abs/2506.11804).
+
 **20/05/2025** - 🎉🎉🎉 Two papers have been accepted for EUSIPCO 2025 "Unsupervised Network Anomaly Detection with Autoencoders and Traffic Images" ([paper](https://arxiv.org/abs/2505.16650)) and "Impact of Microphone Array Mismatches to Learning-based Replay Speech Detection" ([paper](https://arxiv.org/abs/2503.07357)).
 
 **06/05/2025** - 🎉🎉🎉 "Multi-channel Replay Speech Detection using an Adaptive Learnable Beamformer" has been accepted for publication in IEEE Open Journal of Signal Processing! Link to the [accepted paper](https://ieeexplore.ieee.org/document/10994395).
