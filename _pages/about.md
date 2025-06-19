@@ -13,7 +13,7 @@ Ciao! Moikka!
 
 I am Michael Neri, and I am a Postdoctoral Research Fellow at Tampere University in the [Audio Research Group](https://webpages.tuni.fi/arg/). My research interests lie in the domain of Artificial Intelligence techniques applied to sound solving tasks: Replay Speech Detection using multi-channel recordings, Sound Event Detection, Acoustic Scene Classification, and Speaker Distance Estimation. Most of my audio processing works are within the DCASE (Detection and Classification of Acoustic Scene and Events) research context. At the same time, I am also interested in the effective quality assessment of multimedia (point clouds, light fields, etc…) using objective metrics.
 
-I graduated in 2019 with a Laurea (B.Sc.) in Information Engineering and further in 2021 with a Laurea Magistrale (M.Sc.) in ICT for Internet & Multimedia at the University of Padua. I pursued the PhD (_Doctor Europaeus_) in Applied Electronics at Roma Tre University in 2025. 
+I graduated in 2019 with a Laurea (B.Sc.) in Information Engineering (with a thesis on network traffic monitoring) and further in 2021 with a Laurea Magistrale (M.Sc.) in ICT for Internet & Multimedia (with a thesis on 3D object detection from point clouds) at the University of Padua. I pursued the PhD (_Doctor Europaeus_) in Applied Electronics at Roma Tre University in 2025. 
 
 In 2023, I visited Tampere University, Finland, as a visiting Ph.D. student, where I conducted research regarding Speaker Distance Estimation by using single-channel recordings under the supervision of Prof. Virtanen. 
 
