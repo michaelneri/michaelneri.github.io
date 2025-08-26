@@ -17,7 +17,7 @@ I graduated in 2019 with a Laurea (B.Sc.) in Information Engineering (with a the
 
 In 2023, I visited Tampere University, Finland, as a visiting Ph.D. student, where I conducted research regarding Speaker Distance Estimation by using single-channel recordings under the supervision of Prof. Virtanen. 
 
-I am an IEEE Member, Editorial Manager for _Signal Processing: Image Communication_ journal (Elsevier), and a reviewer for several journals (_IEEE Transactions on Image Processing_, _IEEE Transactions on Multimedia_, _IEEE Transactions on Broadcasting_, _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, _Expert Systems with Application_, _Signal Processing: Image Communications_, _IEEE Access_) and conferences (IEEE ICME, IEEE WASPAA, IEEE ICASSP, IEEE MMSP, DCASE, IEEE WIFS, ISPA).
+I am an IEEE and EURASIP Member, Editorial Manager for _Signal Processing: Image Communication_ journal (Elsevier), and a reviewer for several journals (_IEEE Transactions on Image Processing_, _IEEE Transactions on Multimedia_, _IEEE Transactions on Broadcasting_, _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, _Expert Systems with Application_, _Signal Processing: Image Communications_, _IEEE Access_) and conferences (IEEE ICME, IEEE WASPAA, IEEE ICASSP, IEEE MMSP, DCASE, IEEE WIFS, ISPA).
 
 
 News 
