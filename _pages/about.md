@@ -23,6 +23,8 @@ I am an IEEE and EURASIP Member, Editorial Manager for _Signal Processing: Image
 News 
 =====
 
+**18/09/2025** - "Acoustic Simulation Framework for Multi-channel Replay Speech Detection" has been submitted to 2026 IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP). Link to the [paper](https://arxiv.org/abs/2509.14789).
+
 **13/06/2025** - "Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds" has been submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS). Link to the [paper](https://arxiv.org/abs/2506.11804).
 
 **20/05/2025** - 🎉🎉🎉 Two papers have been accepted for EUSIPCO 2025 "Unsupervised Network Anomaly Detection with Autoencoders and Traffic Images" ([paper](https://arxiv.org/abs/2505.16650)) and "Impact of Microphone Array Mismatches to Learning-based Replay Speech Detection" ([paper](https://arxiv.org/abs/2503.07357)).
