@@ -23,6 +23,8 @@ I am an IEEE and EURASIP Member, Editorial Manager for _Signal Processing: Image
 News 
 =====
 
+**15/01/2026** - 🎉🎉🎉 "Markerless emotion recognition from full-body movements for Social XR" has been accepted for publication in Signal Processing: Image Communication! Link to the paper soon!!
+
 **18/09/2025** - "Acoustic Simulation Framework for Multi-channel Replay Speech Detection" has been submitted to 2026 IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP). Link to the [paper](https://arxiv.org/abs/2509.14789).
 
 **13/06/2025** - "Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds" has been submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS). Link to the [paper](https://arxiv.org/abs/2506.11804).
