@@ -22,6 +22,9 @@ I am an IEEE and EURASIP Member, Editorial Manager for _Signal Processing: Image
 
 News 
 =====
+
+**18/05/2026** 🎉🎉🎉 I have been granted the two-year Tampere Institute of Advanced Study Postdoctoral Fellowship with the project **Audio Deepfake Detection using Spatial Audio**!! Link to the [fundings](https://research.tuni.fi/tampere-ias/)!
+
 **12/05/2026** 🎉🎉🎉 "Multi-Channel Replay Speech Detection using Acoustic Maps" has been accepted for publication in EUSIPCO 2026!! See you in Bruges! Link to the [paper](https://arxiv.org/abs/2602.16399).
 
 **08/05/2026** - "Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation" has been submitted to the International Workshop on Acoustic Echo and Noise Control (IWAENC). Link to the [paper](https://arxiv.org/abs/2605.07694).
