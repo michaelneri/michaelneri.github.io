@@ -39,7 +39,7 @@ News
 
 **06/05/2025** - 🎉🎉🎉 "Multi-channel Replay Speech Detection using an Adaptive Learnable Beamformer" has been accepted for publication in IEEE Open Journal of Signal Processing! Link to the [accepted paper](https://ieeexplore.ieee.org/document/10994395).
 
-**30/04/2025** - 🎉🎉🎉 I defended my PhD thesis entitled "Scene Understanding with Sound using Artificial Intelligence Techniques". Link to the [pdf](https://michaelneri.github.io/files/Michael_Neri_PhD_Thesis_No_ACK.pdf) and [presentation](https://michaelneri.github.io/files/Michael_Neri_Final_PhD_Presentation.pdf).
+**30/04/2025** - 🎉🎉🎉 I defended my PhD thesis entitled "Scene Understanding with Sound using Artificial Intelligence Techniques". Link to the [pdf](https://michaelneri.github.io/files/Michael_Neri_PhD_Thesis_No_ACK.pdf) and [presentation](https://michaelneri.github.io/files/Michael_Neri_Final_PhD_Presentation.pdf). It can be read also from EURASIP website [here](https://theses.eurasip.org/document/scene-understanding-with-sound-using-artificial-intelligence-techniques/).
 
 **10/03/2025** - 🎉🎉🎉 "Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features" has been accepted for publication to IEEE Transactions on Broadcasting. Link to the [paper](https://arxiv.org/abs/2503.15001).
 
