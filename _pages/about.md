@@ -23,7 +23,9 @@ I am an IEEE and EURASIP Member, Editorial Manager for _Signal Processing: Image
 News 
 =====
 
-**18/09/2025** - "Acoustic Simulation Framework for Multi-channel Replay Speech Detection" has been submitted to 2026 International Workshop on Multimedia Signal Processing (MMSP). Link to the [paper](https://arxiv.org/abs/2509.14789).
+**27/06/2026** 🎉🎉🎉 "Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation" has been accepted for publication to the International Workshop on Acoustic Echo and Noise Control (IWAENC). Link to the [paper](https://arxiv.org/abs/2605.07694).
+
+**18/05/2026** - "Acoustic Simulation Framework for Multi-channel Replay Speech Detection" has been submitted to 2026 International Workshop on Multimedia Signal Processing (MMSP). Link to the [paper](https://arxiv.org/abs/2509.14789).
 
 **18/05/2026** 🎉🎉🎉 I have been granted the two-year **Tampere Institute of Advanced Study Postdoctoral Fellowship** with the project **Audio Deepfake Detection using Spatial Audio!** Link to the [fundings](https://research.tuni.fi/tampere-ias/)!
 
@@ -31,17 +33,17 @@ News
 
 **08/05/2026** - "Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation" has been submitted to the International Workshop on Acoustic Echo and Noise Control (IWAENC). Link to the [paper](https://arxiv.org/abs/2605.07694).
 
-**15/01/2026** - 🎉🎉🎉 "Markerless emotion recognition from full-body movements for Social XR" has been accepted for publication in Signal Processing: Image Communication! Link to the [paper](https://www.sciencedirect.com/science/article/pii/S0923596526000123)!
+**15/01/2026** 🎉🎉🎉 "Markerless emotion recognition from full-body movements for Social XR" has been accepted for publication in Signal Processing: Image Communication! Link to the [paper](https://www.sciencedirect.com/science/article/pii/S0923596526000123)!
 
 **13/06/2025** - "Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds" has been submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS). Link to the [paper](https://arxiv.org/abs/2506.11804).
 
-**20/05/2025** - 🎉🎉🎉 Two papers have been accepted for EUSIPCO 2025 "Unsupervised Network Anomaly Detection with Autoencoders and Traffic Images" ([paper](https://arxiv.org/abs/2505.16650)) and "Impact of Microphone Array Mismatches to Learning-based Replay Speech Detection" ([paper](https://arxiv.org/abs/2503.07357)).
+**20/05/2025** 🎉🎉🎉 Two papers have been accepted for EUSIPCO 2025 "Unsupervised Network Anomaly Detection with Autoencoders and Traffic Images" ([paper](https://arxiv.org/abs/2505.16650)) and "Impact of Microphone Array Mismatches to Learning-based Replay Speech Detection" ([paper](https://arxiv.org/abs/2503.07357)).
 
-**06/05/2025** - 🎉🎉🎉 "Multi-channel Replay Speech Detection using an Adaptive Learnable Beamformer" has been accepted for publication in IEEE Open Journal of Signal Processing! Link to the [accepted paper](https://ieeexplore.ieee.org/document/10994395).
+**06/05/2025** 🎉🎉🎉 "Multi-channel Replay Speech Detection using an Adaptive Learnable Beamformer" has been accepted for publication in IEEE Open Journal of Signal Processing! Link to the [accepted paper](https://ieeexplore.ieee.org/document/10994395).
 
-**30/04/2025** - 🎉🎉🎉 I defended my PhD thesis entitled "Scene Understanding with Sound using Artificial Intelligence Techniques". Link to the [pdf](https://michaelneri.github.io/files/Michael_Neri_PhD_Thesis_No_ACK.pdf) and [presentation](https://michaelneri.github.io/files/Michael_Neri_Final_PhD_Presentation.pdf). It can be read also from EURASIP website [here](https://theses.eurasip.org/document/scene-understanding-with-sound-using-artificial-intelligence-techniques/).
+**30/04/2025** 🎉🎉🎉 I defended my PhD thesis entitled "Scene Understanding with Sound using Artificial Intelligence Techniques". Link to the [pdf](https://michaelneri.github.io/files/Michael_Neri_PhD_Thesis_No_ACK.pdf) and [presentation](https://michaelneri.github.io/files/Michael_Neri_Final_PhD_Presentation.pdf). It can be read also from EURASIP website [here](https://theses.eurasip.org/document/scene-understanding-with-sound-using-artificial-intelligence-techniques/).
 
-**10/03/2025** - 🎉🎉🎉 "Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features" has been accepted for publication to IEEE Transactions on Broadcasting. Link to the [paper](https://arxiv.org/abs/2503.15001).
+**10/03/2025** 🎉🎉🎉 "Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features" has been accepted for publication to IEEE Transactions on Broadcasting. Link to the [paper](https://arxiv.org/abs/2503.15001).
 
 **10/03/2025** - "Impact of Microphone Array Mismatches to Learning-based Replay Speech Detection" has been submitted to EUSIPCO 2025. Link to the [paper](https://arxiv.org/abs/2503.07357).
 
