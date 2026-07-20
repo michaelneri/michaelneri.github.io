@@ -23,9 +23,9 @@ I am an IEEE and EURASIP Member, Editorial Manager for _Signal Processing: Image
 News 
 =====
 
-**27/06/2026** 🎉🎉🎉 "Acoustic Simulation Framework for Multi-channel Replay Speech Detection" has been accepted for publication to 2026 IEEE International Workshop on Multimedia Signal Processing (MMSP). Link to the [paper](https://arxiv.org/abs/2509.14789).
+**20/07/2026** 🎉🎉🎉 "Acoustic Simulation Framework for Multi-channel Replay Speech Detection" has been accepted for publication to 2026 IEEE International Workshop on Multimedia Signal Processing (MMSP). İstanbul here I come! Link to the [paper](https://arxiv.org/abs/2509.14789).
 
-**27/06/2026** 🎉🎉🎉 "Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation" has been accepted for publication to the International Workshop on Acoustic Echo and Noise Control (IWAENC). Link to the [paper](https://arxiv.org/abs/2605.07694).
+**27/06/2026** 🎉🎉🎉 "Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation" has been accepted for publication to the International Workshop on Acoustic Echo and Noise Control (IWAENC). See you in Cremona!! Link to the [paper](https://arxiv.org/abs/2605.07694).
 
 **18/05/2026** - "Acoustic Simulation Framework for Multi-channel Replay Speech Detection" has been submitted to 2026 IEEE International Workshop on Multimedia Signal Processing (MMSP). Link to the [paper](https://arxiv.org/abs/2509.14789).
 
